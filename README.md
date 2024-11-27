@@ -1,4 +1,5 @@
 ## Hi there 👋
+gitマスターに俺はなる！！！
 
 <!--
 **azilbx/azilbx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
